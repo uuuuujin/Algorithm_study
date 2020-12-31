@@ -1,4 +1,4 @@
-# 빛 섞어서 색 만들기
+#빛 섞어서 색 만들기
 
 color = input().split(" ")
 color = [int(i) for i in color]

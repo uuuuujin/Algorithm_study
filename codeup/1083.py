@@ -1,4 +1,4 @@
-# 3 6 9 게임
+#3 6 9 게임 
 
 number = int(input())
 
